@@ -70,5 +70,5 @@ The next steps are listed in [Project history and future work](08-history-and-fu
 
 | Video | Content |
 |---|---|
-| [youtu.be/O5ZRCgV5iig](https://youtu.be/O5ZRCgV5iig) | Phase 2 — complete operation of the integrated twin ([Gomes, 2025](references.md)) |
+| [youtu.be/hlPfECJXHF8](https://www.youtube.com/watch?v=hlPfECJXHF8) | Phase 2 — complete operation of the integrated twin ([Gomes, 2025](references.md)) |
 | [youtu.be/78XFZRFa8hI](https://youtu.be/78XFZRFa8hI) | Phase 1 — configuration and operation of the CIM-A twin ([Souza, 2023](references.md)) |
