@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "CIM-C Digital Twin"
+abstract: >-
+  3D digital twin of the CIM-C didactic manufacturing plant of CEFET-MG,
+  Leopoldina campus (Brazil), controlled by a PLC through OPC UA for
+  Software-in-the-Loop validation of control logic.
+type: software
+authors:
+  - given-names: "Iago Rangel"
+    family-names: "Gomes"
+    email: "iagorg2000@gmail.com"
+    affiliation: "Federal Center of Technological Education of Minas Gerais (CEFET-MG)"
+  - given-names: "Lucas Faria Schuenck"
+    name-particle: "de"
+    family-names: "Souza"
+    affiliation: "Federal Center of Technological Education of Minas Gerais (CEFET-MG)"
+repository-code: "https://github.com/iago-rg/cimc-digital-twin"
+keywords:
+  - digital twin
+  - software-in-the-loop
+  - OPC UA
+  - PLC
+  - IEC 61131-3
+  - CODESYS
+  - Unity
+  - industrial automation
