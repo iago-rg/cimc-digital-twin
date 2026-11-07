@@ -31,7 +31,7 @@ The project was developed in two B.Sc. theses at CEFET-MG:
 
 | Video | Content |
 |---|---|
-| [youtu.be/O5ZRCgV5iig](https://youtu.be/O5ZRCgV5iig) | Phase 2 — complete process of the integrated twin (CIM-A + CIM-B) |
+| [youtu.be/hlPfECJXHF8](https://www.youtube.com/watch?v=hlPfECJXHF8) | Phase 2 — complete process of the integrated twin (CIM-A + CIM-B) |
 | [youtu.be/78XFZRFa8hI](https://youtu.be/78XFZRFa8hI) | Phase 1 — configuration and operation of the CIM-A twin |
 
 ## Highlights
